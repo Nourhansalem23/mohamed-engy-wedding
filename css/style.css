@@ -178,3 +178,6 @@ section{position:relative;padding:72px 28px;text-align:center}
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
   .petals{display:none}
 }
+
+.seal-text{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-weight:500;font-size:28px;letter-spacing:.5px;transform:translateY(-2px)}
+.mini-seal{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-weight:500;font-size:22px}
